@@ -2,7 +2,7 @@ import chair from '../../../assets/images/chair.png';
 import { DayPicker } from 'react-day-picker';
 
 const AppointmentBanner = ({selectedDate, setSelectedDate}) => {
-    
+     
     return (
         
         <section 
